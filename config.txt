@@ -1,0 +1,42 @@
+/home/adit/Code/bird/Bird Viewer Data Archive/20141213_Callipepla-californica_YPM126691_16d12sRGBY3e4s11f0d0f/specimen-orig-20141215-nonManifold/20141213_Callipepla-californica_YPM126691_16d12sRGBY3e4s11f0d0f.obj
+/home/adit/Code/bird/Bird Viewer Data Archive/20141213_Callipepla-californica_YPM126691_16d12sRGBY3e4s11f0d0f/specimen-orig-20141215-nonManifold/20141213_Callipepla-californica_YPM126691_16d12sRGBY3e4s11f0d0f.exr
+
+/home/adit/Code/bird/Bird Viewer Data Archive/20141214_Charmosyna-papou-goliathina_YPM074652_16d12sRGBY3e4s11f2d3f/specimen-orig-20150428-nonManifold/20141214_Charmosyna-papou-goliathina_YPM074652_16d12sRGBY3e4s11f2d3f.obj
+/home/adit/Code/bird/Bird Viewer Data Archive/20141214_Charmosyna-papou-goliathina_YPM074652_16d12sRGBY3e4s11f2d3f/specimen-orig-20150428-nonManifold/20141214_Charmosyna-papou-goliathina_YPM074652_16d12sRGBY3e4s11f2d3f.exr
+
+/home/adit/Code/bird/Bird Viewer Data Archive/20141216_Cotinga-maynana_YPM81770_16d12sRGBY3e4s11f0d0f/specimen-nonManifold/20141216_Cotinga-maynana_YPM81770_16d12sRGBY3e4s11f0d0f.obj
+/home/adit/Code/bird/Bird Viewer Data Archive/20141216_Cotinga-maynana_YPM81770_16d12sRGBY3e4s11f0d0f/specimen-nonManifold/20141216_Cotinga-maynana_YPM81770_16d12sRGBY3e4s11f0d0f.exr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/home/adit/Code/bird/code/simple_texture.png
+/home/adit/Code/bird/code/simple.obj
+
+
+
+
+
+/home/adit/Code/bird/Bird Viewer Data Archive/20141213_Callipepla-californica_YPM126691_16d12sRGBY3e4s11f0d0f/specimen-orig-20141215-nonManifold/20141213_Callipepla-californica_YPM126691_16d12sRGBY3e4s11f0d0f.xml
+
+
+
+
